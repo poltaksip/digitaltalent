@@ -1,0 +1,339 @@
+nama_region,nama_negara,tahun,jumlah_proyek,nilai_investasi
+"Amerika","USA",2000,54,243.1
+"Amerika","Kanada",2000,13,2.4
+"Amerika","Amerika lainnya",2000,4,9
+"Eropa","Belgia",2000,1,5.9
+"Eropa","Denmark",2000,6,37.1
+"Eropa","Perancis",2000,27,64.7
+"Eropa","Italia",2000,16,7.9
+"Eropa","Belanda",2000,43,1159.3
+"Eropa","Norwegia",2000,2,1.6
+"Eropa","Jerman",2000,28,959.5
+"Eropa","Inggris",2000,79,3645.5
+"Eropa","Swiss",2000,5,42.2
+"Eropa","Eropa Lainnya",2000,15,14.8
+"Asia","Jepang",2000,93,1954.4
+"Asia","Korea Selatan",2000,287,690
+"Asia","Hongkong",2000,13,105.4
+"Asia","Taiwan",2000,73,131.2
+"Asia","Singapura",2000,218,536.4
+"Asia","India",2000,31,59
+"Asia","Asia Lainnya",2000,159,346.4
+"Australia","Australia",2000,83,150.2
+"Australia","Selandia Baru",2000,3,11.8
+"Australia","Australia lainnya",2000,,
+"Afrika","Nigeria",2000,0,0
+"Afrika","Afrika Lainnya",2000,26,464
+"Gabungan Negara","Gabungan Negara",2000,245,4778.2
+"Amerika","USA",2001,37,72.8
+"Amerika","Kanada",2001,5,8.4
+"Amerika","Amerika lainnya",2001,2,.3
+"Eropa","Belgia",2001,1,.2
+"Eropa","Denmark",2001,3,17.9
+"Eropa","Perancis",2001,21,14.3
+"Eropa","Italia",2001,13,3.1
+"Eropa","Belanda",2001,36,88.7
+"Eropa","Norwegia",2001,3,1.8
+"Eropa","Jerman",2001,32,42.6
+"Eropa","Inggris",2001,73,722.9
+"Eropa","Swiss",2001,3,11.7
+"Eropa","Eropa Lainnya",2001,15,19.9
+"Asia","Jepang",2001,98,772
+"Asia","Korea Selatan",2001,285,369.3
+"Asia","Hongkong",2001,15,39.7
+"Asia","Taiwan",2001,63,74.1
+"Asia","Singapura",2001,157,1143
+"Asia","India",2001,28,6.6
+"Asia","Asia Lainnya",2001,172,9805.2
+"Australia","Australia",2001,48,255.5
+"Australia","Selandia Baru",2001,0,0
+"Australia","Australia lainnya",2001,,
+"Afrika","Nigeria",2001,3,.4
+"Afrika","Afrika Lainnya",2001,28,559.7
+"Gabungan Negara","Gabungan Negara",2001,192,1025.8
+"Amerika","USA",2002,37,467.6
+"Amerika","Kanada",2002,4,7.2
+"Amerika","Amerika lainnya",2002,1,6
+"Eropa","Belgia",2002,2,7.1
+"Eropa","Denmark",2002,2,.8
+"Eropa","Perancis",2002,17,262.6
+"Eropa","Italia",2002,4,1.8
+"Eropa","Belanda",2002,26,243.9
+"Eropa","Norwegia",2002,2,1.8
+"Eropa","Jerman",2002,15,35.8
+"Eropa","Inggris",2002,76,719.9
+"Eropa","Swiss",2002,10,74.3
+"Eropa","Eropa Lainnya",2002,14,10.1
+"Asia","Jepang",2002,79,510.5
+"Asia","Korea Selatan",2002,228,369.8
+"Asia","Hongkong",2002,12,1711.9
+"Asia","Taiwan",2002,35,51.8
+"Asia","Singapura",2002,155,3328.1
+"Asia","India",2002,34,5.1
+"Asia","Asia Lainnya",2002,135,201.4
+"Australia","Australia",2002,40,232.2
+"Australia","Selandia Baru",2002,5,.8
+"Australia","Australia lainnya",2002,,
+"Afrika","Nigeria",2002,3,.3
+"Afrika","Afrika Lainnya",2002,27,875.2
+"Gabungan Negara","Gabungan Negara",2002,178,663.1
+"Amerika","USA",2003,26,173.5
+"Amerika","Kanada",2003,3,73.7
+"Amerika","Amerika lainnya",2003,5,132.8
+"Eropa","Belgia",2003,1,.1
+"Eropa","Denmark",2003,2,1.6
+"Eropa","Perancis",2003,10,5.7
+"Eropa","Italia",2003,9,1.8
+"Eropa","Belanda",2003,23,99.4
+"Eropa","Norwegia",2003,1,2.1
+"Eropa","Jerman",2003,15,170.8
+"Eropa","Inggris",2003,73,966.1
+"Eropa","Swiss",2003,2,.3
+"Eropa","Eropa Lainnya",2003,14,16.2
+"Asia","Jepang",2003,65,1252.2
+"Asia","Korea Selatan",2003,173,122.1
+"Asia","Hongkong",2003,17,169.5
+"Asia","Taiwan",2003,37,136.7
+"Asia","Singapura",2003,151,518.9
+"Asia","India",2003,23,6.4
+"Asia","Asia Lainnya",2003,137,455.7
+"Australia","Australia",2003,33,125.4
+"Australia","Selandia Baru",2003,1,.2
+"Australia","Australia lainnya",2003,,
+"Afrika","Nigeria",2003,2,.2
+"Afrika","Afrika Lainnya",2003,18,4462
+"Gabungan Negara","Gabungan Negara",2003,183,4313.8
+"Amerika","USA",2004,24,133.2
+"Amerika","Kanada",2004,4,1.4
+"Amerika","Amerika lainnya",2004,5,71.7
+"Eropa","Belgia",2004,6,9.5
+"Eropa","Denmark",2004,2,.3
+"Eropa","Perancis",2004,12,9.1
+"Eropa","Italia",2004,14,10.3
+"Eropa","Belanda",2004,34,258.7
+"Eropa","Norwegia",2004,3,3
+"Eropa","Jerman",2004,21,29.8
+"Eropa","Inggris",2004,80,1317.2
+"Eropa","Swiss",2004,7,299
+"Eropa","Eropa Lainnya",2004,21,21
+"Asia","Jepang",2004,74,1683.4
+"Asia","Korea Selatan",2004,209,402.7
+"Asia","Hongkong",2004,12,20.1
+"Asia","Taiwan",2004,40,68.6
+"Asia","Singapura",2004,150,576.5
+"Asia","India",2004,27,66.7
+"Asia","Asia Lainnya",2004,169,3614.1
+"Australia","Australia",2004,39,481.2
+"Australia","Selandia Baru",2004,5,107.4
+"Australia","Australia lainnya",2004,,
+"Afrika","Nigeria",2004,1,.1
+"Afrika","Afrika Lainnya",2004,19,360.9
+"Gabungan Negara","Gabungan Negara",2004,212,733.9
+"Amerika","USA",2005,44,88.6
+"Amerika","Kanada",2005,1,3.9
+"Amerika","Amerika lainnya",2005,4,50.8
+"Eropa","Belgia",2005,4,6.8
+"Eropa","Denmark",2005,0,0
+"Eropa","Perancis",2005,15,10.3
+"Eropa","Italia",2005,4,.6
+"Eropa","Belanda",2005,33,920.5
+"Eropa","Norwegia",2005,0,0
+"Eropa","Jerman",2005,20,18.8
+"Eropa","Inggris",2005,70,1292.9
+"Eropa","Swiss",2005,8,94.7
+"Eropa","Eropa Lainnya",2005,17,18.7
+"Asia","Jepang",2005,145,1144.3
+"Asia","Korea Selatan",2005,101,429.5
+"Asia","Hongkong",2005,14,396
+"Asia","Taiwan",2005,31,47.9
+"Asia","Singapura",2005,107,2150.5
+"Asia","India",2005,10,2.8
+"Asia","Asia Lainnya",2005,64,146.2
+"Australia","Australia",2005,30,39.6
+"Australia","Selandia Baru",2005,6,5.2
+"Australia","Australia lainnya",2005,0,0
+"Afrika","Nigeria",2005,0,0
+"Afrika","Afrika Lainnya",2005,12,944.1
+"Gabungan Negara","Gabungan Negara",2005,168,1104.2
+"Amerika","USA",2006,32,65.8
+"Amerika","Kanada",2006,4,1.4
+"Amerika","Amerika lainnya",2006,6,86.1
+"Eropa","Belgia",2006,6,1.4
+"Eropa","Denmark",2006,1,.5
+"Eropa","Perancis",2006,120,104.9
+"Eropa","Italia",2006,7,1.7
+"Eropa","Belanda",2006,24,35.2
+"Eropa","Norwegia",2006,3,11.8
+"Eropa","Jerman",2006,17,15
+"Eropa","Inggris",2006,49,660.5
+"Eropa","Swiss",2006,6,61.6
+"Eropa","Eropa Lainnya",2006,11,3.2
+"Asia","Jepang",2006,113,902.8
+"Asia","Korea Selatan",2006,140,475.7
+"Asia","Hongkong",2006,15,187.9
+"Asia","Taiwan",2006,36,63.5
+"Asia","Singapura",2006,83,508.8
+"Asia","India",2006,15,88.4
+"Asia","Asia Lainnya",2006,61,451.6
+"Australia","Australia",2006,23,9
+"Australia","Selandia Baru",2006,0,0
+"Australia","Australia lainnya",2006,0,0
+"Afrika","Nigeria",2006,0,0
+"Afrika","Afrika Lainnya",2006,15,700
+"Gabungan Negara","Gabungan Negara",2006,180,1540.2
+"Amerika","USA",2007,31,144.7
+"Amerika","Kanada",2007,1,.2
+"Amerika","Amerika lainnya",2007,6,185.7
+"Eropa","Belgia",2007,4,3.7
+"Eropa","Denmark",2007,2,.3
+"Eropa","Perancis",2007,10,9.4
+"Eropa","Italia",2007,8,3.4
+"Eropa","Belanda",2007,36,147.2
+"Eropa","Norwegia",2007,2,3.2
+"Eropa","Jerman",2007,17,18.5
+"Eropa","Inggris",2007,63,1685.8
+"Eropa","Swiss",2007,10,77.5
+"Eropa","Eropa Lainnya",2007,10,3.4
+"Asia","Jepang",2007,113,618.2
+"Asia","Korea Selatan",2007,164,627.7
+"Asia","Hongkong",2007,14,156.7
+"Asia","Taiwan",2007,33,469.7
+"Asia","Singapura",2007,124,3748
+"Asia","India",2007,17,11.6
+"Asia","Asia Lainnya",2007,90,310.9
+"Australia","Australia",2007,26,195.3
+"Australia","Selandia Baru",2007,,
+"Australia","Australia lainnya",2007,1,.3
+"Afrika","Nigeria",2007,,
+"Afrika","Afrika Lainnya",2007,15,505.7
+"Gabungan Negara","Gabungan Negara",2007,185,1414.3
+"Amerika","USA",2008,35,151.3
+"Amerika","Kanada",2008,4,.9
+"Amerika","Amerika lainnya",2008,11,23.6
+"Eropa","Belgia",2008,2,23.2
+"Eropa","Denmark",2008,3,1.1
+"Eropa","Perancis",2008,18,164
+"Eropa","Italia",2008,9,5.9
+"Eropa","Belanda",2008,34,89.9
+"Eropa","Norwegia",2008,2,.4
+"Eropa","Jerman",2008,22,198.3
+"Eropa","Inggris",2008,57,513.4
+"Eropa","Swiss",2008,7,72.2
+"Eropa","Eropa Lainnya",2008,5,23.1
+"Asia","Jepang",2008,130,1365.4
+"Asia","Korea Selatan",2008,182,301.1
+"Asia","Hongkong",2008,18,120.2
+"Asia","Taiwan",2008,35,69.4
+"Asia","Singapura",2008,184,1487.3
+"Asia","India",2008,20,17.8
+"Asia","Asia Lainnya",2008,119,510.3
+"Australia","Australia",2008,34,36
+"Australia","Selandia Baru",2008,,
+"Australia","Australia lainnya",2008,2,4.1
+"Afrika","Nigeria",2008,,
+"Afrika","Afrika Lainnya",2008,10,6542.8
+"Gabungan Negara","Gabungan Negara",2008,195,3149.7
+"Amerika","USA",2009,27,171.5
+"Amerika","Kanada",2009,2,.4
+"Amerika","Amerika lainnya",2009,4,1.5
+"Eropa","Belgia",2009,5,1.8
+"Eropa","Denmark",2009,2,1.1
+"Eropa","Perancis",2009,12,29
+"Eropa","Italia",2009,11,41.1
+"Eropa","Belanda",2009,32,1198.7
+"Eropa","Norwegia",2009,4,2.9
+"Eropa","Jerman",2009,18,103.9
+"Eropa","Inggris",2009,61,587.7
+"Eropa","Swiss",2009,11,132.1
+"Eropa","Eropa Lainnya",2009,16,11.1
+"Asia","Jepang",2009,124,678.9
+"Asia","Korea Selatan",2009,186,624.5
+"Asia","Hongkong",2009,18,21
+"Asia","Taiwan",2009,36,31.7
+"Asia","Singapura",2009,189,4341
+"Asia","India",2009,31,26.2
+"Asia","Asia Lainnya",2009,133,280.5
+"Australia","Australia",2009,26,79.7
+"Australia","Selandia Baru",2009,3,1.3
+"Australia","Australia lainnya",2009,,
+"Afrika","Nigeria",2009,2,.3
+"Afrika","Afrika Lainnya",2009,12,495.8
+"Gabungan Negara","Gabungan Negara",2009,256,1952.2
+"Amerika","USA",2010,100,930.9
+"Amerika","Kanada",2010,15,147.9
+"Amerika","Amerika lainnya",2010,119,1636.2
+"Eropa","Belgia",2010,14,15.9
+"Eropa","Denmark",2010,3,.2
+"Eropa","Perancis",2010,57,3.3
+"Eropa","Italia",2010,17,23.4
+"Eropa","Belanda",2010,106,608.3
+"Eropa","Norwegia",2010,8,6.6
+"Eropa","Jerman",2010,51,157.6
+"Eropa","Inggris",2010,132,276.2
+"Eropa","Swiss",2010,20,129.6
+"Eropa","Eropa Lainnya",2010,48,81.2
+"Asia","Jepang",2010,321,712.6
+"Asia","Korea Selatan",2010,355,328.5
+"Asia","Hongkong",2010,62,566.1
+"Asia","Taiwan",2010,72,47.5
+"Asia","Singapura",2010,418,5565
+"Asia","India",2010,44,8.9
+"Asia","Asia Lainnya",2010,356,749.2
+"Australia","Australia",2010,94,214.2
+"Australia","Selandia Baru",2010,6,3
+"Australia","Australia lainnya",2010,4,22
+"Afrika","Nigeria",2010,,
+"Afrika","Afrika Lainnya",2010,45,150
+"Gabungan Negara","Gabungan Negara",2010,609,3830.4
+"Amerika","USA",2011,112,1487.8
+"Amerika","Kanada",2011,12,2.2
+"Amerika","Amerika lainnya",2011,178,528.9
+"Eropa","Belgia",2011,16,11.7
+"Eropa","Denmark",2011,2,.1
+"Eropa","Perancis",2011,59,134.3
+"Eropa","Italia",2011,31,6
+"Eropa","Belanda",2011,118,1354.4
+"Eropa","Norwegia",2011,1,
+"Eropa","Jerman",2011,63,158.1
+"Eropa","Inggris",2011,156,419
+"Eropa","Swiss",2011,29,9.4
+"Eropa","Eropa Lainnya",2011,63,86.9
+"Asia","Jepang",2011,421,1516.1
+"Asia","Korea Selatan",2011,456,1218.7
+"Asia","Hongkong",2011,104,135
+"Asia","Taiwan",2011,87,243.2
+"Asia","Singapura",2011,679,5123
+"Asia","India",2011,58,41.9
+"Asia","Asia Lainnya",2011,506,857.6
+"Australia","Australia",2011,123,89.7
+"Australia","Selandia Baru",2011,9,
+"Australia","Australia lainnya",2011,10,22.4
+"Afrika","Nigeria",2011,,
+"Afrika","Afrika Lainnya",2011,57,202.2
+"Gabungan Negara","Gabungan Negara",2011,992,5826.2
+"Amerika","USA",2012,97,1238.3
+"Amerika","Kanada",2012,14,8.5
+"Amerika","Amerika lainnya",2012,234,892.7
+"Eropa","Belgia",2012,16,23.9
+"Eropa","Denmark",2012,3,.1
+"Eropa","Perancis",2012,52,158.7
+"Eropa","Italia",2012,25,22.9
+"Eropa","Belanda",2012,131,966.5
+"Eropa","Norwegia",2012,5,7.8
+"Eropa","Jerman",2012,71,75.8
+"Eropa","Inggris",2012,97,934.4
+"Eropa","Swiss",2012,37,255.1
+"Eropa","Eropa Lainnya",2012,83,128.7
+"Asia","Jepang",2012,405,2456.9
+"Asia","Korea Selatan",2012,421,1949.7
+"Asia","Hongkong",2012,105,309.6
+"Asia","Taiwan",2012,85,646.9
+"Asia","Singapura",2012,805,4856.4
+"Asia","India",2012,58,78.1
+"Asia","Asia Lainnya",2012,485,800.8
+"Australia","Australia",2012,137,743.6
+"Australia","Selandia Baru",2012,3,
+"Australia","Australia lainnya",2012,4,1.8
+"Afrika","Nigeria",2012,1,
+"Afrika","Afrika Lainnya",2012,41,1195.7
+"Gabungan Negara","Gabungan Negara",2012,1164,6811.8
